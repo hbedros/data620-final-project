@@ -10,7 +10,9 @@ How do different product features and review characteristics affect customer sat
 We want to use Amazon reviews to learn what customers like or dislike about products. By studying the review text and product information, we can find out what factors lead to high or low ratings. This will help us understand customer behavior and improve products.
 
 ### Data Sources:
-We will use the Amazon Review Data (2018) provided by Jianmo Ni from UCSD. This dataset includes reviews (ratings, text, helpfulness votes), product details (descriptions, categories, price, brand, and image features), and links (also viewed/also bought graphs). It covers reviews from May 1996 to October 2018 and includes 233.1 million reviews.
+We will use the Amazon Review Data (2018) provided by Jianmo Ni from UCSD. This dataset includes reviews (ratings, text, helpfulness votes), product details (descriptions, categories, price, brand, and image features), and links (also viewed/also bought graphs). It covers reviews from May 1996 to October 2018 and includes 233.1 million reviews. 
+
+The dataset can be found [here](https://nijianmo.github.io/amazon/index.html).
 
 ### Project Plan:
 
