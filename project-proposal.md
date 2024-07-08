@@ -19,31 +19,31 @@ The dataset can be found [here](https://nijianmo.github.io/amazon/index.html).
 #### Tasks and Responsibilities:
 
 **1. Data Preparation and Cleaning**
-- **Assigned to:** ???
+- **Assigned to:** Matt?
 - **Responsibilities:**
   - Load the dataset and parse the JSON files.
   - Clean the data by removing HTML/CSS content, duplicates, and irrelevant information.
 
 **2. Descriptive Analysis and Visualization**
-- **Assigned to:** ???
+- **Assigned to:** Julia
 - **Responsibilities:**
   - Perform basic statistics on the dataset (e.g., average rating, number of reviews per product).
   - Create visualizations to show key metrics like rating distribution, number of reviews per category, and product pricing.
 
 **3. Network Analysis**
-- **Assigned to:** ???
+- **Assigned to:** Selina
 - **Responsibilities:**
   - Create and analyze the "also viewed" and "also bought" graphs to find popular product groups.
   - Use centrality measures to find important products in these networks.
 
 **4. NLP and Text Mining**
-- **Assigned to:** ???
+- **Assigned to:** Matt
 - **Responsibilities:**
   - Perform sentiment analysis on review texts to measure customer satisfaction.
   - Do topic modeling to find common themes in positive and negative reviews.
 
 **5. Predictive Analysis**
-- **Assigned to:** ??? and ???
+- **Assigned to:** Julia and ???
 - **Responsibilities:**
   - Train machine learning models to predict review ratings based on review text and product features.
   - Evaluate model performance and improve it as needed.
