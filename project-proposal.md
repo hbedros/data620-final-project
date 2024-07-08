@@ -43,7 +43,7 @@ The dataset can be found [here](https://nijianmo.github.io/amazon/index.html).
   - Do topic modeling to find common themes in positive and negative reviews.
 
 **5. Predictive Analysis**
-- **Assigned to:** Julia and ???
+- **Assigned to:** Julia and Haig
 - **Responsibilities:**
   - Train machine learning models to predict review ratings based on review text and product features.
   - Evaluate model performance and improve it as needed.
