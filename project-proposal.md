@@ -19,7 +19,7 @@ The dataset can be found [here](https://nijianmo.github.io/amazon/index.html).
 #### Tasks and Responsibilities:
 
 **1. Data Preparation and Cleaning**
-- **Assigned to:** Matt?
+- **Assigned to:** Matt and Haig
 - **Responsibilities:**
   - Load the dataset and parse the JSON files.
   - Clean the data by removing HTML/CSS content, duplicates, and irrelevant information.
