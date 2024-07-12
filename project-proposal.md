@@ -33,7 +33,7 @@ The dataset can be found [here](https://nijianmo.github.io/amazon/index.html).
 **3. Network Analysis**
 - **Assigned to:** Selina
 - **Responsibilities:**
-  - Create and analyze the "also viewed" and "also bought" graphs to find popular product groups.
+  - Create and analyze a product-reviewer network to find popular product groups.
   - Use centrality measures to find important products in these networks.
 
 **4. NLP and Text Mining**
